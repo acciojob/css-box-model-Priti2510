@@ -1,22 +1,10 @@
 
 /* Your CSS Code here. */
 
-..d1 {
-	margin : 20px
-}
-
-.d2 {
-	border : 15px solid blue;
-	
-	
-}
-.d3 {
-	background-color : lightblue;
-	padding : 50px;
-	
-}
-.d4 {
-	width : 300px;
-	
-	
+.d1 {
+	width: 300px;
+	background-color: lightblue;
+	border: 15px blue;
+	padding: 50px;
+	margin: 20px
 }
